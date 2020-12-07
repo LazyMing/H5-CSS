@@ -46,6 +46,9 @@
   
   body {
     margin: 0;
+    color:#010101;
+    font-family: 'Micrasoft YaHei';
+    font-weight: 300;
   }
   
   /**
